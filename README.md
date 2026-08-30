@@ -40,12 +40,12 @@ PokeDropAlert watches the places collectors would otherwise refresh all day, the
 
 | Project | What it does |
 | :-- | :-- |
-| 🗺️ [**ANDV Hantavirus Tracker**](https://www.andvhantavirus.com) | A live intelligence tracker that brings evolving data, sources, and a public map into one clear view. |
+| 🗺️ **ANDV Hantavirus Tracker** | A live intelligence tracker that brings evolving data, sources, and a public map into one clear view. |
 | 📊 **Instagram Export Intelligence** | A local-first workspace for making official Instagram/Meta exports understandable without passwords, scraping, or cloud upload. |
 | 🌦️ **PolyWeather** | A decision dashboard that combines weather forecasts, observations, market odds, and history. |
 | 🤖 **AI Influencer Studio** | A system for building consistent AI-driven characters, creative identities, and generation workflows. |
 | 📚 **English Learning System** | A persistent local learning space for practice, review, roleplay, and progress tracking. |
-| ⛽ [**WhereIsMyBenz**](https://github.com/FrancescoGaudiello10/WhereIsMyBenz) | An early Ruby on Rails app for finding nearby fuel stations. |
+| ⛽ **WhereIsMyBenz** | An early Ruby on Rails app for finding nearby fuel stations. |
 
 <details>
   <summary><strong>🔒 Why are most repositories private?</strong></summary>
