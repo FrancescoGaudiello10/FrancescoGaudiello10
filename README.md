@@ -2,12 +2,6 @@
   <img src="./assets/signal-field.svg" alt="Abstract signal field with code and data symbols" width="100%">
 </p>
 
-<h1 align="center">gtsmvrdvp</h1>
-
-<p align="center">
-  <i>Francesco, one key to the right.</i>
-</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=17&amp;duration=3200&amp;pause=1300&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=780&amp;lines=%E2%80%9CThe+street+finds+its+own+uses+for+things.%E2%80%9D+%E2%80%94+William+Gibson;%E2%80%9CThe+purpose+of+computing+is+insight%2C+not+numbers.%E2%80%9D+%E2%80%94+Richard+Hamming;%E2%80%9CThe+best+way+to+predict+the+future+is+to+invent+it.%E2%80%9D+%E2%80%94+Alan+Kay" alt="Animated technology quotations">
 </p>
