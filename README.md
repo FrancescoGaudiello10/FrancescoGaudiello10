@@ -1,55 +1,75 @@
 <p align="center">
-  <img src="./assets/hero.svg" alt="Francesco Gaudiello — building products from signals, data, and automation" width="100%">
+  <img src="./assets/hero.svg" alt="Francesco Gaudiello — digital product builder" width="100%">
 </p>
 
 <p align="center">
-  <a href="https://www.pokedropalert.com">🌐 PokemonDropAlert</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://www.andvhantavirus.com">🗺️ ANDV Tracker</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="#-private-builds--case-studies">🔒 Private builds</a>
+  <a href="https://www.pokedropalert.com"><img src="https://img.shields.io/badge/POKEMONDROPALERT-7C3AED?style=for-the-badge&logo=lightning&logoColor=white" alt="PokemonDropAlert"></a>
+  <a href="https://www.andvhantavirus.com"><img src="https://img.shields.io/badge/ANDV_TRACKER-0284C7?style=for-the-badge&logo=mapbox&logoColor=white" alt="ANDV Tracker"></a>
 </p>
 
-## ⚡ Turning signals into products
+<p align="center">
+  🌍 Italy &nbsp;·&nbsp; 🧠 Product builder &nbsp;·&nbsp; ⚙️ Data, automation & AI
+</p>
 
-I build data-driven products, automations, and AI workflows.
+## 👋 A little about me
 
-From the first raw signal to the final dashboard, alert, bot, or report, I enjoy owning the full path: **data sources → reliable workflows → useful product**.
+I build digital products that make messy information useful.
+
+That can mean a real-time alert, a local-first analytics tool, a live intelligence tracker, or an automation that removes repetitive work. I like working on the whole system -- from the raw data and the workflow behind it to the product people actually interact with.
+
+## 🚀 What I am building
+
+### ⚡ [PokemonDropAlert](https://www.pokedropalert.com)
+**Drop intelligence for Pokemon collectors in Italy.**
+
+From dozens of shop signals to a website, real-time Telegram alerts, and a community that does not have to refresh product pages all day.
+
+`data collection` · `real-time alerts` · `web product`
+
+### 🗺️ [ANDV Hantavirus Tracker](https://www.andvhantavirus.com)
+**A live tracker that turns a fast-moving story into a clear public view.**
+
+Sources, an interactive map, verified updates, and an automated pipeline that keeps the signal readable as new information arrives.
+
+`live data` · `AI extraction` · `public dashboard`
+
+### 📊 [Instagram Export Intelligence](./projects/instagram-export-intelligence.md)
+**Your Instagram export, finally understandable.**
+
+A privacy-first workspace that turns official Meta archives into local data, snapshots, reports, and answers -- no passwords, scraping, or cloud upload.
+
+`local-first` · `DuckDB` · `privacy by design`
+
+### 🌦️ [PolyWeather](./projects/polyweather.md)
+**Weather data, market odds, and context in one decision view.**
+
+A map-first dashboard for reading forecasts, observed conditions, probability markets, and historical movement together.
+
+`forecasting` · `market data` · `decision support`
+
+<p align="right"><a href="./projects/ai-influencer-studio.md">Explore more private builds →</a></p>
+
+## 🛠️ My toolkit
 
 <p>
-  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=58A6FF" alt="Python">
-  <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js">
-  <img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB">
-  <img src="https://img.shields.io/badge/DuckDB-111827?style=for-the-badge&logo=duckdb&logoColor=FFF000" alt="DuckDB">
+  <img src="https://img.shields.io/badge/Python-171717?style=flat-square&logo=python&logoColor=FFD43B" alt="Python">
+  <img src="https://img.shields.io/badge/TypeScript-171717?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Next.js-171717?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/React-171717?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/MongoDB-171717?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB">
+  <img src="https://img.shields.io/badge/DuckDB-171717?style=flat-square&logo=duckdb&logoColor=FFF000" alt="DuckDB">
+  <img src="https://img.shields.io/badge/GitHub_Actions-171717?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/Vercel-171717?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
 </p>
 
-## 🚀 Live products
+## 🔒 Private by design
 
-| | |
-|:--|:--|
-| ### ⚡ [PokemonDropAlert](https://www.pokedropalert.com)<br>**Drop intelligence for Pokemon collectors in Italy.**<br><br>Signals from multiple shops become a searchable website, real-time Telegram alerts, and community updates.<br><br>[🌐 Explore the product](https://www.pokedropalert.com) | ### 🗺️ [ANDV Hantavirus Tracker](https://www.andvhantavirus.com)<br>**A live public intelligence tracker.**<br><br>Sources, data, an interactive map, and updates in one place -- kept current by an automated collection and AI extraction pipeline.<br><br>[🌐 Open the tracker](https://www.andvhantavirus.com) |
+Most of my repositories are private because they contain active products, experiments, or personal data. I still share the ideas and the product decisions behind them:
 
-## 🔒 Private builds & case studies
-
-Most of my work stays in private repositories by design. The source code is private; the product thinking is not.
-
-| | |
-|:--|:--|
-| ### 📊 [Instagram Export Intelligence](./projects/instagram-export-intelligence.md)<br>Privacy-first analytics for official Instagram/Meta exports. Local data, durable snapshots, and answers without passwords or scraping.<br><br>[Read the case study →](./projects/instagram-export-intelligence.md) | ### 🌦️ [PolyWeather](./projects/polyweather.md)<br>A map-first decision dashboard for weather forecasting markets, combining forecasts, observations, odds, and historical snapshots.<br><br>[Read the case study →](./projects/polyweather.md) |
-| ### 🤖 [AI Influencer Studio](./projects/ai-influencer-studio.md)<br>A multi-character AI content system with reusable identities, generation workflows, and brand-specific creative direction.<br><br>[Read the case study →](./projects/ai-influencer-studio.md) | ### 📝 [ClickInail](./projects/clickinail.md)<br>An assisted workflow for making structured administrative form completion more reliable and repeatable.<br><br>[Read the case study →](./projects/clickinail.md) |
-
-## 🧠 What I like building
-
-- **Data products** that turn fragmented inputs into a clear decision or action.
-- **Automations** that remove repetitive work without hiding what is happening.
-- **AI-assisted workflows** where models augment a real process instead of becoming the product by themselves.
-- **Local-first tools** that keep sensitive data in the hands of the person who owns it.
-
-## 🧪 From the archive
-
-⛽ [**WhereIsMyBenz**](https://github.com/FrancescoGaudiello10/WhereIsMyBenz) — an early Ruby on Rails app for finding nearby fuel stations.
+- 🤖 [AI Influencer Studio](./projects/ai-influencer-studio.md) — an AI content system for multiple characters and brands.
+- 📝 [ClickInail](./projects/clickinail.md) — a guided workflow for structured administrative forms.
+- 📚 English Learning System — a persistent, local practice environment for language learning.
 
 <p align="center">
-  <sub>Building useful things, one workflow at a time.</sub>
+  <sub>Built with curiosity, shipped with intent.</sub>
 </p>
