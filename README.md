@@ -1,72 +1,49 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,45:6366F1,100:EC4899&height=220&section=header&text=Francesco%20Gaudiello&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=37&desc=Building%20digital%20products%20from%20data%2C%20automation%20%26%20AI.&descSize=17&descAlignY=57" alt="Francesco Gaudiello">
+
 <p align="center">
-  <img src="./assets/hero.svg" alt="Francesco Gaudiello — digital product builder" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=900&color=7C3AED&center=true&vCenter=true&width=650&lines=Turning+raw+signals+into+useful+products.;Automating+the+things+that+should+not+be+manual.;Building+tools+people+actually+want+to+use." alt="Animated introduction">
 </p>
 
 <p align="center">
-  <a href="https://www.pokedropalert.com"><img src="https://img.shields.io/badge/POKEMONDROPALERT-7C3AED?style=for-the-badge&logo=lightning&logoColor=white" alt="PokemonDropAlert"></a>
-  <a href="https://www.andvhantavirus.com"><img src="https://img.shields.io/badge/ANDV_TRACKER-0284C7?style=for-the-badge&logo=mapbox&logoColor=white" alt="ANDV Tracker"></a>
+  <a href="https://www.pokedropalert.com"><img src="https://img.shields.io/badge/%E2%9A%A1_PokemonDropAlert-111827?style=for-the-badge&logoColor=white" alt="PokemonDropAlert"></a>
+  <a href="https://www.andvhantavirus.com"><img src="https://img.shields.io/badge/%F0%9F%97%BA%EF%B8%8F_ANDV_Tracker-111827?style=for-the-badge&logoColor=white" alt="ANDV Tracker"></a>
 </p>
 
-<p align="center">
-  🌍 Italy &nbsp;·&nbsp; 🧠 Product builder &nbsp;·&nbsp; ⚙️ Data, automation & AI
-</p>
+## 👋 Hey, I am Francesco
 
-## 👋 A little about me
+I build products where **data, automation, and experience** meet.
 
-I build digital products that make messy information useful.
+Sometimes it is a bot that catches a drop before it disappears. Sometimes it is a local tool that makes a personal data export understandable. Sometimes it is a dashboard that helps a fast-changing situation make sense.
 
-That can mean a real-time alert, a local-first analytics tool, a live intelligence tracker, or an automation that removes repetitive work. I like working on the whole system -- from the raw data and the workflow behind it to the product people actually interact with.
+The common thread: finding the signal, building the system behind it, and making the result feel simple.
 
-## 🚀 What I am building
+## 🛸 On my workbench
 
 ### ⚡ [PokemonDropAlert](https://www.pokedropalert.com)
-**Drop intelligence for Pokemon collectors in Italy.**
-
-From dozens of shop signals to a website, real-time Telegram alerts, and a community that does not have to refresh product pages all day.
-
-`data collection` · `real-time alerts` · `web product`
+An always-on drop tracker for Pokemon collectors in Italy -- from scattered shop listings to real-time Telegram alerts.
 
 ### 🗺️ [ANDV Hantavirus Tracker](https://www.andvhantavirus.com)
-**A live tracker that turns a fast-moving story into a clear public view.**
+A live, map-first intelligence product that turns updates, sources, and changing data into one public picture.
 
-Sources, an interactive map, verified updates, and an automated pipeline that keeps the signal readable as new information arrives.
+### 📊 Instagram Export Intelligence
+A private, local-first workspace that turns official Instagram/Meta exports into useful snapshots, insights, and reports -- with no password, scraping, or cloud upload.
 
-`live data` · `AI extraction` · `public dashboard`
+### 🌦️ PolyWeather
+A private decision dashboard that puts forecasts, observed weather, market odds, and historical movement on the same map.
 
-### 📊 [Instagram Export Intelligence](./projects/instagram-export-intelligence.md)
-**Your Instagram export, finally understandable.**
+<details>
+  <summary><strong>🔒 A few more things from the private lab</strong></summary>
+  <br>
 
-A privacy-first workspace that turns official Meta archives into local data, snapshots, reports, and answers -- no passwords, scraping, or cloud upload.
+  - 🤖 **AI Influencer Studio** — a reusable creative system for AI-driven characters, content identities, and image-generation workflows.
+  - 📚 **English Learning System** — a persistent local environment for language practice, reviews, roleplay, and progress tracking.
+  - 🧩 Most projects stay private while they are active, experimental, or built around personal data. I share what they solve, not the code behind them.
+</details>
 
-`local-first` · `DuckDB` · `privacy by design`
+## ⚙️ My usual toolkit
 
-### 🌦️ [PolyWeather](./projects/polyweather.md)
-**Weather data, market odds, and context in one decision view.**
-
-A map-first dashboard for reading forecasts, observed conditions, probability markets, and historical movement together.
-
-`forecasting` · `market data` · `decision support`
-
-## 🛠️ My toolkit
-
-<p>
-  <img src="https://img.shields.io/badge/Python-171717?style=flat-square&logo=python&logoColor=FFD43B" alt="Python">
-  <img src="https://img.shields.io/badge/TypeScript-171717?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Next.js-171717?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/React-171717?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/MongoDB-171717?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB">
-  <img src="https://img.shields.io/badge/DuckDB-171717?style=flat-square&logo=duckdb&logoColor=FFF000" alt="DuckDB">
-  <img src="https://img.shields.io/badge/GitHub_Actions-171717?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions">
-  <img src="https://img.shields.io/badge/Vercel-171717?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,ts,nextjs,react,mongodb,docker,githubactions,vercel&theme=dark&perline=8" alt="Python, TypeScript, Next.js, React, MongoDB, Docker, GitHub Actions, and Vercel">
 </p>
 
-## 🔒 Private by design
-
-Most of my repositories are private because they contain active products, experiments, or personal data. I still share the ideas and the product decisions behind them:
-
-- 🤖 [AI Influencer Studio](./projects/ai-influencer-studio.md) — an AI content system for multiple characters and brands.
-- 📚 English Learning System — a persistent, local practice environment for language learning.
-
-<p align="center">
-  <sub>Built with curiosity, shipped with intent.</sub>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,45:6366F1,100:EC4899&height=110&section=footer" alt="">
