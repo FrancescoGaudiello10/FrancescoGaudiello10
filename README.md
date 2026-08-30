@@ -47,8 +47,6 @@ A map-first dashboard for reading forecasts, observed conditions, probability ma
 
 `forecasting` · `market data` · `decision support`
 
-<p align="right"><a href="./projects/ai-influencer-studio.md">Explore more private builds →</a></p>
-
 ## 🛠️ My toolkit
 
 <p>
@@ -67,7 +65,6 @@ A map-first dashboard for reading forecasts, observed conditions, probability ma
 Most of my repositories are private because they contain active products, experiments, or personal data. I still share the ideas and the product decisions behind them:
 
 - 🤖 [AI Influencer Studio](./projects/ai-influencer-studio.md) — an AI content system for multiple characters and brands.
-- 📝 [ClickInail](./projects/clickinail.md) — a guided workflow for structured administrative forms.
 - 📚 English Learning System — a persistent, local practice environment for language learning.
 
 <p align="center">
