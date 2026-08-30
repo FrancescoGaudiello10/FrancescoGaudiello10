@@ -13,7 +13,7 @@ from urllib.request import Request, urlopen
 
 API_URL = "https://api.github.com"
 TOKEN = os.environ["PROFILE_STATS_TOKEN"]
-OUTPUT = Path(__file__).parent.parent / "assets" / "snapshot.svg"
+OUTPUT = Path(__file__).parent.parent / "assets" / "snapshot-live.svg"
 
 
 def api_get(path: str, params: dict[str, str | int]) -> object:
