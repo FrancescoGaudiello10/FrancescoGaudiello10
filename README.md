@@ -69,7 +69,7 @@ PokeDropAlert watches the places collectors would otherwise refresh all day, the
 ## 📊 Snapshot
 
 <p align="center">
-  <img src="./assets/snapshot.svg" alt="Profile snapshot: over 8 years on GitHub, 841 commits, and over 10 projects built">
+  <img src="./assets/snapshot.svg" alt="GitHub profile snapshot">
 </p>
 
 <p align="center">

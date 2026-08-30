@@ -1,0 +1,34 @@
+name: Update profile snapshot
+
+on:
+  schedule:
+    - cron: "0 7 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-snapshot:
+    if: ${{ secrets.PROFILE_STATS_TOKEN != '' }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate profile snapshot
+        env:
+          PROFILE_STATS_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN }}
+        run: python3 scripts/generate_snapshot.py
+
+      - name: Commit updated snapshot
+        run: |
+          if git diff --quiet -- assets/snapshot.svg; then
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/snapshot.svg
+          git commit -m "Update profile snapshot [skip ci]"
+          git push
