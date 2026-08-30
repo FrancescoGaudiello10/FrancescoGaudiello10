@@ -1,6 +1,6 @@
 <svg width="1280" height="150" viewBox="0 0 1280 150" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
   <title id="title">Profile snapshot</title>
-  <desc id="description">8+ years on GitHub, 777 commits in the last 365 days, and 11+ projects built.</desc>
+  <desc id="description">8+ years on GitHub, 779 commits in the last 365 days, and 11+ projects built.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1280" y2="150" gradientUnits="userSpaceOnUse">
       <stop stop-color="#111827"/>
@@ -19,7 +19,7 @@
     <text x="214" y="62" fill="#A5F3FC" font-size="13" font-weight="700" letter-spacing="2">ON GITHUB</text>
     <text x="214" y="105" fill="white" font-family="monospace" font-size="36" font-weight="700">08+ YEARS</text>
     <text x="640" y="62" fill="#DDD6FE" font-size="13" font-weight="700" letter-spacing="2">LAST 365 DAYS</text>
-    <text x="640" y="105" fill="white" font-family="monospace" font-size="36" font-weight="700">777 COMMITS</text>
+    <text x="640" y="105" fill="white" font-family="monospace" font-size="36" font-weight="700">779 COMMITS</text>
     <text x="1066" y="62" fill="#A5F3FC" font-size="13" font-weight="700" letter-spacing="2">IN THE LAB</text>
     <text x="1066" y="105" fill="white" font-family="monospace" font-size="36" font-weight="700">11+ PROJECTS</text>
   </g>
