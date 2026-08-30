@@ -1,49 +1,67 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,45:6366F1,100:EC4899&height=220&section=header&text=Francesco%20Gaudiello&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=37&desc=Building%20digital%20products%20from%20data%2C%20automation%20%26%20AI.&descSize=17&descAlignY=57" alt="Francesco Gaudiello">
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=900&color=7C3AED&center=true&vCenter=true&width=650&lines=Turning+raw+signals+into+useful+products.;Automating+the+things+that+should+not+be+manual.;Building+tools+people+actually+want+to+use." alt="Animated introduction">
+  <img src="./assets/pokedrop-hero.svg" alt="Francesco Gaudiello and PokeDropAlert" width="100%">
 </p>
 
 <p align="center">
-  <a href="https://www.pokedropalert.com"><img src="https://img.shields.io/badge/%E2%9A%A1_PokemonDropAlert-111827?style=for-the-badge&logoColor=white" alt="PokemonDropAlert"></a>
-  <a href="https://www.andvhantavirus.com"><img src="https://img.shields.io/badge/%F0%9F%97%BA%EF%B8%8F_ANDV_Tracker-111827?style=for-the-badge&logoColor=white" alt="ANDV Tracker"></a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2600&pause=1100&color=A78BFA&center=true&vCenter=true&width=700&lines=I+build+tools+that+turn+signals+into+action.;Monitoring+drops.+Automating+the+boring+bits.;Data%2C+products%2C+and+a+little+bit+of+magic." alt="Animated introduction">
 </p>
 
-## 👋 Hey, I am Francesco
+<p align="center">
+  <a href="https://www.pokedropalert.com"><img src="https://img.shields.io/badge/⚡_EXPLORE_POKEDROPALERT-7C3AED?style=for-the-badge&logoColor=white" alt="Explore PokeDropAlert"></a>
+  <a href="https://www.andvhantavirus.com"><img src="https://img.shields.io/badge/🗺️_OPEN_ANDV_TRACKER-0891B2?style=for-the-badge&logoColor=white" alt="Open ANDV Tracker"></a>
+</p>
 
-I build products where **data, automation, and experience** meet.
+## ✨ Hey, I am Francesco
 
-Sometimes it is a bot that catches a drop before it disappears. Sometimes it is a local tool that makes a personal data export understandable. Sometimes it is a dashboard that helps a fast-changing situation make sense.
+I build digital products around **data, automation, and AI**.
 
-The common thread: finding the signal, building the system behind it, and making the result feel simple.
+I like the moment where a messy source becomes a useful signal -- and the signal becomes something people can actually use: an alert, a map, a dashboard, a bot, or a small tool that removes friction from a real day.
 
-## 🛸 On my workbench
+## 🃏 Main quest: [PokeDropAlert](https://www.pokedropalert.com)
 
-### ⚡ [PokemonDropAlert](https://www.pokedropalert.com)
-An always-on drop tracker for Pokemon collectors in Italy -- from scattered shop listings to real-time Telegram alerts.
+> **Real-time Pokemon drop intelligence for collectors in Italy.**
 
-### 🗺️ [ANDV Hantavirus Tracker](https://www.andvhantavirus.com)
-A live, map-first intelligence product that turns updates, sources, and changing data into one public picture.
+PokeDropAlert watches the places collectors would otherwise refresh all day, then turns stock, preorder, and restock signals into useful updates across the web and Telegram.
 
-### 📊 Instagram Export Intelligence
-A private, local-first workspace that turns official Instagram/Meta exports into useful snapshots, insights, and reports -- with no password, scraping, or cloud upload.
+`store monitoring` · `real-time alerts` · `community product` · `automation`
 
-### 🌦️ PolyWeather
-A private decision dashboard that puts forecasts, observed weather, market odds, and historical movement on the same map.
+<p>
+  <a href="https://www.pokedropalert.com">🌐 Visit PokeDropAlert</a>
+  &nbsp;·&nbsp;
+  🔒 Source code is private while the product is active.
+</p>
+
+## 🧪 Side quests
+
+| Project | What it does |
+| :-- | :-- |
+| 🗺️ [**ANDV Hantavirus Tracker**](https://www.andvhantavirus.com) | A live intelligence tracker that brings evolving data, sources, and a public map into one clear view. |
+| 📊 **Instagram Export Intelligence** | A local-first workspace for making official Instagram/Meta exports understandable without passwords, scraping, or cloud upload. |
+| 🌦️ **PolyWeather** | A decision dashboard that combines weather forecasts, observations, market odds, and history. |
+| 🤖 **AI Influencer Studio** | A system for building consistent AI-driven characters, creative identities, and generation workflows. |
+| 📚 **English Learning System** | A persistent local learning space for practice, review, roleplay, and progress tracking. |
+| ⛽ [**WhereIsMyBenz**](https://github.com/FrancescoGaudiello10/WhereIsMyBenz) | An early Ruby on Rails app for finding nearby fuel stations. |
 
 <details>
-  <summary><strong>🔒 A few more things from the private lab</strong></summary>
+  <summary><strong>🔒 Why are most repositories private?</strong></summary>
   <br>
-
-  - 🤖 **AI Influencer Studio** — a reusable creative system for AI-driven characters, content identities, and image-generation workflows.
-  - 📚 **English Learning System** — a persistent local environment for language practice, reviews, roleplay, and progress tracking.
-  - 🧩 Most projects stay private while they are active, experimental, or built around personal data. I share what they solve, not the code behind them.
+  Most of these are active products, experiments, or tools that work with personal data. I keep the implementation private, but I am happy to show the product thinking, the systems behind it, and the outcomes they are designed for.
 </details>
 
-## ⚙️ My usual toolkit
+## ⚙️ Things I build with
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,ts,nextjs,react,mongodb,docker,githubactions,vercel&theme=dark&perline=8" alt="Python, TypeScript, Next.js, React, MongoDB, Docker, GitHub Actions, and Vercel">
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,45:6366F1,100:EC4899&height=110&section=footer" alt="">
+## 📈 GitHub signals
+
+<p align="center">
+  <img src="./assets/metrics.svg" alt="GitHub activity and technology metrics for Francesco Gaudiello">
+</p>
+
+<p align="center">
+  <sub>🎮 Collect signals. Build systems. Ship useful things.</sub>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:4C1D95,100:0891B2&height=110&section=footer" alt="">

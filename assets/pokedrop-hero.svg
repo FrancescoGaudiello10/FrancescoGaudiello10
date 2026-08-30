@@ -1,0 +1,78 @@
+<svg width="1280" height="390" viewBox="0 0 1280 390" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
+  <title id="title">Francesco Gaudiello and PokeDropAlert</title>
+  <desc id="description">An original purple spectral alert mascot in a collector intelligence lab.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1280" y2="390" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1020"/>
+      <stop offset=".56" stop-color="#1D1740"/>
+      <stop offset="1" stop-color="#102B3D"/>
+    </linearGradient>
+    <linearGradient id="spectral" x1="914" y1="87" x2="1149" y2="315" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D8B4FE"/>
+      <stop offset=".43" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#4C1D95"/>
+    </linearGradient>
+    <linearGradient id="beam" x1="830" y1="202" x2="1213" y2="202" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset=".45" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#A855F7" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="grid" width="31" height="31" patternUnits="userSpaceOnUse">
+      <path d="M31 0H0V31" stroke="#A78BFA" stroke-opacity=".1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="390" rx="22" fill="url(#background)"/>
+  <rect width="1280" height="390" rx="22" fill="url(#grid)"/>
+  <circle cx="1080" cy="171" r="207" fill="#7C3AED" fill-opacity=".11"/>
+  <circle cx="1234" cy="342" r="154" fill="#06B6D4" fill-opacity=".08"/>
+  <path d="M751 202H1260" stroke="url(#beam)" stroke-width="2" filter="url(#glow)"/>
+
+  <g transform="translate(66 67)">
+    <rect width="133" height="29" rx="14.5" fill="#22D3EE" fill-opacity=".12" stroke="#22D3EE" stroke-opacity=".45"/>
+    <circle cx="18" cy="14.5" r="4" fill="#22D3EE"/>
+    <text x="30" y="19" fill="#BAE6FD" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="1.2">ONLINE / BUILDING</text>
+    <text x="0" y="89" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="47" font-weight="700" letter-spacing="-1.3">Francesco Gaudiello</text>
+    <text x="0" y="126" fill="#C4B5FD" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="1.8">PRODUCTS · AUTOMATION · AI</text>
+
+    <g transform="translate(0 166)">
+      <rect width="449" height="86" rx="14" fill="#0A1229" fill-opacity=".72" stroke="#A78BFA" stroke-opacity=".36"/>
+      <path d="M25 23H49L55 31V57L49 65H25L19 57V31L25 23Z" fill="#7C3AED"/>
+      <path d="M28 34L37 29L46 34V48L37 54L28 48V34Z" stroke="#E9D5FF" stroke-width="2"/>
+      <text x="76" y="39" fill="#EDE9FE" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="1.1">FEATURED BUILD</text>
+      <text x="76" y="65" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700">PokeDropAlert</text>
+      <text x="256" y="65" fill="#67E8F9" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">COLLECT · DETECT · ALERT</text>
+    </g>
+  </g>
+
+  <g transform="translate(904 79)">
+    <rect x="-56" y="109" width="111" height="46" rx="10" fill="#111827" stroke="#22D3EE" stroke-opacity=".55"/>
+    <text x="-39" y="129" fill="#67E8F9" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700">SHOP SIGNAL</text>
+    <text x="-39" y="145" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="10">item detected</text>
+    <path d="M55 132H99" stroke="#22D3EE" stroke-width="2" stroke-dasharray="5 5"/>
+
+    <rect x="255" y="111" width="107" height="46" rx="10" fill="#111827" stroke="#E879F9" stroke-opacity=".55"/>
+    <text x="271" y="131" fill="#F0ABFC" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700">ALERT SENT</text>
+    <text x="271" y="147" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="10">community live</text>
+    <path d="M208 134H255" stroke="#E879F9" stroke-width="2" stroke-dasharray="5 5"/>
+
+    <path d="M122 62C154 16 222 11 252 58C277 98 265 170 231 213C202 249 132 249 98 213C64 177 58 101 91 62C99 52 110 52 122 62Z" fill="url(#spectral)" stroke="#DDD6FE" stroke-opacity=".48" stroke-width="2"/>
+    <path d="M106 174C126 203 205 210 239 174" stroke="#C4B5FD" stroke-opacity=".5" stroke-width="2"/>
+    <ellipse cx="134" cy="113" rx="21" ry="16" fill="#091225"/>
+    <ellipse cx="214" cy="113" rx="21" ry="16" fill="#091225"/>
+    <circle cx="139" cy="109" r="6" fill="#67E8F9" filter="url(#glow)"/>
+    <circle cx="209" cy="109" r="6" fill="#67E8F9" filter="url(#glow)"/>
+    <path d="M150 153C164 164 184 164 199 153" stroke="#F5D0FE" stroke-width="4" stroke-linecap="round"/>
+    <path d="M114 71L91 38L129 57" fill="#8B5CF6" stroke="#DDD6FE" stroke-opacity=".55" stroke-width="2"/>
+    <path d="M231 71L255 38L217 57" fill="#8B5CF6" stroke="#DDD6FE" stroke-opacity=".55" stroke-width="2"/>
+    <circle cx="174" cy="242" r="16" fill="#22D3EE" fill-opacity=".15"/>
+    <circle cx="174" cy="242" r="7" fill="#22D3EE" filter="url(#glow)"/>
+  </g>
+</svg>
