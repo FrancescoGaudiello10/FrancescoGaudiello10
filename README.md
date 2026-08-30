@@ -1,7 +1,15 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:4C1D95,100:0891B2&height=135&section=header" alt="">
+<p align="center">
+  <img src="./assets/signal-field.svg" alt="Abstract signal field with code and data symbols" width="100%">
+</p>
+
+<h1 align="center">gtsmvrdvp</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=1250&color=A78BFA&center=true&vCenter=true&width=780&lines=Hey%2C+I%27m+Francesco+%F0%9F%91%8B;Building+products+that+make+complex+things+feel+simple.;Turning+data%2C+automation%2C+and+AI+into+useful+experiences.;From+a+messy+signal+to+a+product+people+can+use." alt="Animated introduction">
+  <i>Francesco, one key to the right.</i>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=17&amp;duration=3200&amp;pause=1300&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=780&amp;lines=%E2%80%9CThe+street+finds+its+own+uses+for+things.%E2%80%9D+%E2%80%94+William+Gibson;%E2%80%9CThe+purpose+of+computing+is+insight%2C+not+numbers.%E2%80%9D+%E2%80%94+Richard+Hamming;%E2%80%9CThe+best+way+to+predict+the+future+is+to+invent+it.%E2%80%9D+%E2%80%94+Alan+Kay" alt="Animated technology quotations">
 </p>
 
 <p align="center">
