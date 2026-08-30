@@ -53,16 +53,23 @@ PokeDropAlert watches the places collectors would otherwise refresh all day, the
   Most of these are active products, experiments, or tools that work with personal data. I keep the implementation private, but I am happy to show the product thinking, the systems behind it, and the outcomes they are designed for.
 </details>
 
-## ⚙️ Things I build with
+## ⚙️ Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,ts,nextjs,react,mongodb,docker,githubactions,vercel&theme=dark&perline=8" alt="Python, TypeScript, Next.js, React, MongoDB, Docker, GitHub Actions, and Vercel">
+  <img src="https://img.shields.io/badge/Python-171717?style=flat-square&amp;logo=python&amp;logoColor=FFD43B" alt="Python">
+  <img src="https://img.shields.io/badge/TypeScript-171717?style=flat-square&amp;logo=typescript&amp;logoColor=3178C6" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Next.js-171717?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/React-171717?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/MongoDB-171717?style=flat-square&amp;logo=mongodb&amp;logoColor=47A248" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Docker-171717?style=flat-square&amp;logo=docker&amp;logoColor=2496ED" alt="Docker">
+  <img src="https://img.shields.io/badge/GitHub_Actions-171717?style=flat-square&amp;logo=githubactions&amp;logoColor=2088FF" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/Vercel-171717?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="Vercel">
 </p>
 
-## 📈 GitHub signals
+## 📊 Snapshot
 
 <p align="center">
-  <img src="./assets/metrics.svg" alt="GitHub activity and technology metrics for Francesco Gaudiello">
+  <img src="./assets/snapshot.svg" alt="Profile snapshot: over 8 years on GitHub, 841 commits, and over 10 projects built">
 </p>
 
 <p align="center">
