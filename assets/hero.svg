@@ -1,0 +1,73 @@
+<svg width="1280" height="340" viewBox="0 0 1280 340" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
+  <title id="title">Francesco Gaudiello</title>
+  <desc id="description">Building products from signals, data, and automation.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1280" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="0.53" stop-color="#111B3D"/>
+      <stop offset="1" stop-color="#1A0E36"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="815" y1="35" x2="1175" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="0.52" stop-color="#818CF8"/>
+      <stop offset="1" stop-color="#E879F9"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse">
+      <path d="M38 0H0V38" stroke="#A5B4FC" stroke-opacity=".1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="340" rx="22" fill="url(#background)"/>
+  <rect width="1280" height="340" rx="22" fill="url(#grid)"/>
+  <circle cx="1080" cy="123" r="190" fill="#4F46E5" fill-opacity=".15"/>
+  <circle cx="1220" cy="288" r="135" fill="#D946EF" fill-opacity=".1"/>
+
+  <g opacity=".55" stroke="url(#accent)" stroke-width="1.5">
+    <path d="M780 248L878 181L968 230L1084 108L1198 158"/>
+    <path d="M840 84L912 132L1015 68L1134 126L1240 78"/>
+    <path d="M913 293L992 230L1076 279L1198 158"/>
+  </g>
+  <g fill="#C4B5FD" filter="url(#glow)">
+    <circle cx="780" cy="248" r="4"/>
+    <circle cx="878" cy="181" r="4"/>
+    <circle cx="968" cy="230" r="4"/>
+    <circle cx="1084" cy="108" r="5"/>
+    <circle cx="1198" cy="158" r="4"/>
+    <circle cx="840" cy="84" r="4"/>
+    <circle cx="912" cy="132" r="4"/>
+    <circle cx="1015" cy="68" r="5"/>
+    <circle cx="1134" cy="126" r="4"/>
+    <circle cx="1240" cy="78" r="4"/>
+    <circle cx="913" cy="293" r="4"/>
+    <circle cx="992" cy="230" r="4"/>
+    <circle cx="1076" cy="279" r="4"/>
+  </g>
+
+  <g transform="translate(66 60)">
+    <rect width="119" height="29" rx="14.5" fill="#38BDF8" fill-opacity=".14" stroke="#38BDF8" stroke-opacity=".5"/>
+    <circle cx="18" cy="14.5" r="4" fill="#38BDF8"/>
+    <text x="31" y="19" fill="#BAE6FD" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1.4">BUILDER MODE</text>
+    <text x="0" y="91" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="700" letter-spacing="-1.5">Francesco Gaudiello</text>
+    <text x="0" y="132" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="20">Data-driven products · Automation · AI workflows</text>
+
+    <g transform="translate(0 173)">
+      <rect width="164" height="40" rx="9" fill="#0F213A" stroke="#2B4B6F"/>
+      <text x="16" y="25" fill="#7DD3FC" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">01  SIGNALS</text>
+      <path d="M181 20H208" stroke="#64748B" stroke-width="2"/>
+      <path d="M203 15L208 20L203 25" stroke="#64748B" stroke-width="2"/>
+      <rect x="225" width="184" height="40" rx="9" fill="#171A3C" stroke="#5555A5"/>
+      <text x="241" y="25" fill="#C4B5FD" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">02  WORKFLOWS</text>
+      <path d="M426 20H453" stroke="#64748B" stroke-width="2"/>
+      <path d="M448 15L453 20L448 25" stroke="#64748B" stroke-width="2"/>
+      <rect x="470" width="168" height="40" rx="9" fill="#311545" stroke="#8B3FA0"/>
+      <text x="486" y="25" fill="#F0ABFC" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">03  PRODUCTS</text>
+    </g>
+  </g>
+</svg>
