@@ -1,21 +1,24 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:4C1D95,100:0891B2&height=135&section=header" alt="">
+
 <p align="center">
-  <img src="./assets/pokedrop-hero.svg" alt="Francesco Gaudiello and PokeDropAlert" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=1250&color=A78BFA&center=true&vCenter=true&width=780&lines=Hey%2C+I%27m+Francesco+%F0%9F%91%8B;Building+products+that+make+complex+things+feel+simple.;Turning+data%2C+automation%2C+and+AI+into+useful+experiences.;From+a+messy+signal+to+a+product+people+can+use." alt="Animated introduction">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2600&pause=1100&color=A78BFA&center=true&vCenter=true&width=700&lines=I+build+tools+that+turn+signals+into+action.;Monitoring+drops.+Automating+the+boring+bits.;Data%2C+products%2C+and+a+little+bit+of+magic." alt="Animated introduction">
+  <code>product builder</code>
+  ·
+  <code>automation</code>
+  ·
+  <code>AI workflows</code>
+  ·
+  <code>data systems</code>
 </p>
 
-<p align="center">
-  <a href="https://www.pokedropalert.com"><img src="https://img.shields.io/badge/⚡_EXPLORE_POKEDROPALERT-7C3AED?style=for-the-badge&logoColor=white" alt="Explore PokeDropAlert"></a>
-  <a href="https://www.andvhantavirus.com"><img src="https://img.shields.io/badge/🗺️_OPEN_ANDV_TRACKER-0891B2?style=for-the-badge&logoColor=white" alt="Open ANDV Tracker"></a>
-</p>
-
-## ✨ Hey, I am Francesco
-
-I build digital products around **data, automation, and AI**.
+## ✨ What I do
 
 I like the moment where a messy source becomes a useful signal -- and the signal becomes something people can actually use: an alert, a map, a dashboard, a bot, or a small tool that removes friction from a real day.
+
+The common thread is simple: **find the signal, build the system, make the experience feel effortless.**
 
 ## 🃏 Main quest: [PokeDropAlert](https://www.pokedropalert.com)
 
@@ -64,4 +67,4 @@ PokeDropAlert watches the places collectors would otherwise refresh all day, the
   <sub>🎮 Collect signals. Build systems. Ship useful things.</sub>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:4C1D95,100:0891B2&height=110&section=footer" alt="">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:4C1D95,100:0891B2&height=110&section=footer" alt="">
